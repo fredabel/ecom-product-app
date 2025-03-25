@@ -5,6 +5,13 @@ This project reinforces React components, props, and state by designing a layout
 
 * [![React][React.js]][React-url]
 
+
+### Prerequisites
+You'll need the following software installed on your computer:
+
+* Git
+* Node.js (which comes with npm)
+
 ### Installation
 1. Clone the repository
     ```sh  
